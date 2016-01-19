@@ -1,0 +1,842 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"User",
+				"UserAddress"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"Use",
+				"UserAddresss"
+			],
+			[
+				"user",
+				"user_checkout"
+			],
+			[
+				"object",
+				"objects"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"use",
+				"user_checkout"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"G",
+				"GuestCheckoutForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"Ca",
+				"Cart"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"se",
+				"sender"
+			],
+			[
+				"u",
+				"updateCartItemCount"
+			],
+			[
+				"is_a",
+				"is_ajax"
+			],
+			[
+				"total",
+				"total_item"
+			],
+			[
+				"tot",
+				"total_item"
+			],
+			[
+				"su",
+				"Succuessfullt"
+			],
+			[
+				"sh",
+				"showFlashMessage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"conta",
+				"container-alert-flash"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"sub",
+				"subtotal"
+			],
+			[
+				"cat",
+				"cart_item"
+			],
+			[
+				"cra",
+				"cart_item"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"ite",
+				"item_added"
+			],
+			[
+				"it",
+				"item_added"
+			],
+			[
+				"fo",
+				"formData"
+			],
+			[
+				"up",
+				"update_subtotal"
+			],
+			[
+				"q",
+				"qty"
+			],
+			[
+				"li",
+				"line_item_total"
+			],
+			[
+				"del",
+				"delete_item"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"ca",
+				"cart_id"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"car",
+				"cart"
+			],
+			[
+				"item",
+				"item_instance"
+			],
+			[
+				"Cart",
+				"CartView"
+			],
+			[
+				"Pr",
+				"ProductImageInline"
+			],
+			[
+				"Var",
+				"VariationInline"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"sa",
+				"sale_price"
+			],
+			[
+				"pr",
+				"products_two"
+			],
+			[
+				"ge",
+				"get_context_data"
+			],
+			[
+				"P",
+				"ProductDetailView"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"va",
+				"variation_select"
+			],
+			[
+				"l",
+				"login_required"
+			],
+			[
+				"Va",
+				"VariationInventoryFormSet"
+			],
+			[
+				"mod",
+				"modedlformset_factory"
+			],
+			[
+				"V",
+				"VariationInventoryForm"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"prd",
+				"product"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Pt",
+				"ProductManager"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"sta",
+				"static_root"
+			],
+			[
+				"e",
+				"except"
+			],
+			[
+				"fr",
+				"friend"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"friend",
+				"friends_set"
+			],
+			[
+				"ref",
+				"refer_id"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"new",
+				"new_join_old"
+			],
+			[
+				"Jo",
+				"JoinForm"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"htm",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"Logi",
+				"LoginView"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"E",
+				"EmployAdmin"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/orders/models.py",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/orders/example.py",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ilnar/Downloads/backend/blog.html",
+			"settings":
+			{
+				"buffer_size": 6817,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ilnar/projects/ecommerce-2",
+		"/home/ilnar/projects/ecommerce-2/src",
+		"/home/ilnar/projects/ecommerce-2/src/carts",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates/carts",
+		"/home/ilnar/projects/ecommerce-2/src/orders",
+		"/home/ilnar/projects/ecommerce-2/src/products",
+		"/home/ilnar/projects/ecommerce-2/static_in_env"
+	],
+	"file_history":
+	[
+		"/home/ilnar/.virtualenvs/rebranchtest/bin/predeactivate",
+		"/home/ilnar/.virtualenvs/rebranchtest/bin/postactivate",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates/carts/chechout_view.html",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/urls.py",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/settings/local.py",
+		"/home/ilnar/projects/lms_project/lms/templates/home.html",
+		"/home/ilnar/projects/ecommerce-2/src/orders/forms.py",
+		"/home/ilnar/projects/ecommerce-2/src/orders/models.py",
+		"/home/ilnar/projects/ecommerce-2/src/orders/admin.py",
+		"/home/ilnar/projects/ecommerce-2/src/orders/templates/orders/address_select.html",
+		"/home/ilnar/projects/ecommerce-2/src/orders/views.py",
+		"/home/ilnar/projects/ecommerce-2/src/carts/views.py",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates/carts/view.html",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/products.html",
+		"/home/ilnar/projects/ecommerce-2/src/carts/models.py",
+		"/home/ilnar/projects/ecommerce-2/src/templates/home.html",
+		"/home/ilnar/projects/ecommerce-2/src/newsletter/views.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/models.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/product_thumbnail.html",
+		"/home/ilnar/projects/ecommerce-2/src/templates/navbar.html",
+		"/home/ilnar/projects/ecommerce-2/static_in_env/static_root/css/custom.css",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/category_detail.html",
+		"/home/ilnar/projects/ecommerce-2/src/products/admin.py",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates/carts/empty_cart.html",
+		"/home/ilnar/projects/ecommerce-2/src/carts/admin.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/urls_categories.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/urls.py",
+		"/home/ilnar/projects/ecommerce-2/src/templates/base.html",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/home/ilnar/projects/ecommerce-2/src/templates/alert.html",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/variation_list.html",
+		"/home/ilnar/projects/ecommerce-2/src/static_in_pro/our_static/css/custom.css",
+		"/home/ilnar/projects/ecommerce-2/src/templates/javascript.html",
+		"/home/ilnar/projects/ecommerce-2/src/static_in_pro/our_static/js/custom.js",
+		"/home/ilnar/projects/ecommerce-2/src/static_in_pro/our_static/css/custom.js",
+		"/home/ilnar/projects/ecommerce-2/src/products/views.py",
+		"/home/ilnar/projects/ecommerce-2/src/carts/templates/view.html",
+		"/home/ilnar/projects/ecommerce-2/src/products/urls_category.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/mixins.py",
+		"/home/ilnar/projects/ecommerce-2/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/ilnar/projects/ecommerce-2/src/products/forms.py",
+		"/home/ilnar/projects/ecommerce-2/src/products/templates/products/product_list.html",
+		"/home/ilnar/projects/ecommerce-2/src/.gitignore",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/old_settings.py",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/settings/base.py",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/settings/production.py",
+		"/home/ilnar/projects/ecommerce-2/src/ecommerce2/wsgi.py",
+		"/home/ilnar/projects/ecommerce-2/src/manage.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/old_settings.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/settings/base.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/settings/local.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/settings/production.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/urls.py",
+		"/home/ilnar/projects/ecommerce-2/src/trydjango18/wsgi.py",
+		"/home/ilnar/.virtualenvs/lwc/bin/postactivate",
+		"/home/ilnar/projects/ecommerce-2/src/newsletter/forms.py",
+		"/home/ilnar/.virtualenvs/ecommerce-2/bin/postactivate",
+		"/home/ilnar/.virtualenvs/ecommerce-2/bin/predeactivate",
+		"/home/ilnar/.virtualenvs/ecommerce-2/local/lib/python3.4/site-packages/django/core/management/commands/runserver.py",
+		"/home/ilnar/.virtualenvs/lwc/bin/predeactivate",
+		"/home/ilnar/projects/lwc/lwc/templates/base.html",
+		"/home/ilnar/projects/lwc/lwc/templates/navbar.html",
+		"/home/ilnar/projects/lwc/lwc/views.py",
+		"/home/ilnar/projects/lwc/lwc/settings.py",
+		"/home/ilnar/projects/lms_project/lms/urls.py",
+		"/home/ilnar/projects/lms_project/lms/templates/base.html",
+		"/home/ilnar/projects/lms_project/lms/templates/registration/registration_form.html",
+		"/home/ilnar/projects/lms_project/lms/templates/registration/activation_email_subject.txt",
+		"/home/ilnar/projects/lms_project/lms/templates/registration/activate.html",
+		"/home/ilnar/projects/lms_project/lms/settings/base.py",
+		"/home/ilnar/projects/lms_project/lms/templates/registration/registration_complete.html",
+		"/home/ilnar/.virtualenvs/lms_dev/bin/postdeactivate",
+		"/home/ilnar/.virtualenvs/lms_dev/bin/postactivate",
+		"/home/ilnar/projects/lms_project/lms/templates/registration/activation_email.txt",
+		"/home/ilnar/projects/lms_project/lms/templates/shifr.py",
+		"/home/ilnar/.virtualenvs/altairedu/bin/postactivate",
+		"/home/ilnar/projects/lms_project/account/templates/registration/login.html",
+		"/home/ilnar/projects/lms_project/account/templates/registration/registration_form.html",
+		"/home/ilnar/projects/lms_project/account/templates/registration/logout.html",
+		"/home/ilnar/projects/lms_project/account/templates/registration/password_reset_form.html",
+		"/home/ilnar/projects/lms_project/account/urls.py",
+		"/home/ilnar/projects/lms_project/lms/templates/lms/index.html",
+		"/home/ilnar/projects/lms_project/lms/templates/account/base.html",
+		"/home/ilnar/projects/lms_project/lms/static/site/css/app.css",
+		"/home/ilnar/projects/lms_project/lms/views.py",
+		"/home/ilnar/projects/lms_project/lms/templates/contact.html",
+		"/home/ilnar/projects/lms_project/accounts/models.py",
+		"/home/ilnar/projects/taskbuster/taskbuster/templates/base.html",
+		"/home/ilnar/projects/lms_project/lms/templates/account/login.html",
+		"/home/ilnar/projects/lms_project/lms/templates/_navbar.html",
+		"/home/ilnar/projects/lms_project/lms/static/site/css/all.css",
+		"/home/ilnar/my_proj/src/templates/_navbar.html",
+		"/home/ilnar/Downloads/fest-api-master/configs/urls.py",
+		"/home/ilnar/Downloads/fest-api-master/configs/global_settings.py",
+		"/home/ilnar/projects/lms_project/lms/forms.py",
+		"/home/ilnar/projects/lms_project/lms/templates/courses/information.html",
+		"/home/ilnar/projects/lms_project/lms/templates/courses/contents.html",
+		"/home/ilnar/projects/lms_project/auth/models.py",
+		"/home/ilnar/projects/lms_project/auth_lms/models.py",
+		"/home/ilnar/projects/lms_project/lms/templates/courses/base.html",
+		"/home/ilnar/projects/lms_project/lms/templates/accounts/signup.html",
+		"/home/ilnar/projects/lms_project/lms/templates/accounts/login1.html",
+		"/home/ilnar/.virtualenvs/lms_dev/bin/predeactivate",
+		"/home/ilnar/.virtualenvs/lms_dev/bin/preactivate",
+		"/home/ilnar/projects/taskbuster-boilerplate/reg/urls.py",
+		"/home/ilnar/projects/lms_project/manage.py",
+		"/home/ilnar/.virtualenvs/postactivate",
+		"/home/ilnar/.virtualenvs/tb_dev/bin/postactivate",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/settings/base.py",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/templates/registration/activate.html",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/templates/taskbuster/index.html",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/templates/base.html",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/templates/profile..html",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/urls.py",
+		"/home/ilnar/projects/taskbuster-boilerplate/taskbuster/settings/development.py",
+		"/home/ilnar/projects/inventory/inventory/templates/index.html",
+		"/home/ilnar/projects/inventory/inventory/templates/base.html",
+		"/home/ilnar/projects/inventory/inventory/templates/main/index.html",
+		"/home/ilnar/projects/inventory/inventory/static/css/starter-template.css",
+		"/home/ilnar/projects/inventory/inventory/main/views.py",
+		"/home/ilnar/projects/inventory/inventory/inventory/views.py",
+		"/home/ilnar/projects/inventory/inventory/main/urls.py",
+		"/home/ilnar/projects/inventory/inventory/inventory/templates/base.html",
+		"/home/ilnar/projects/inventory/inventory/inventory/urls.py",
+		"/home/ilnar/projects/inventory/inventory/inventory/templates/main/index.html",
+		"/home/ilnar/projects/inventory/inventory/inventory/settings/base.py",
+		"/home/ilnar/projects/inventory-master/inventory/main_app/views.py",
+		"/home/ilnar/projects/inventory-master/inventory/inventory/templates/admin/base_site.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/home/ilnar/projects/ecommerce-2/src",
+			"/home/ilnar/.virtualenvs/ecommerce-2/local",
+			"/home/ilnar/projects/ecommerce-2/src,/home/ilnar/projects/ecommerce-2,/home/ilnar/.virtualenvs",
+			"/home/ilnar/projects/ecommerce-2/src,/home/ilnar/projects/ecommerce-2",
+			"/home/ilnar/projects/ecommerce-2/src",
+			"/home/ilnar/projects/lwc/lwc/templates,/home/ilnar/projects/ecommerce-2/src",
+			"/home/ilnar/projects/lwc/lwc/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"branch",
+			"item-qty",
+			"\"",
+			"flash_messsage",
+			"\"",
+			"div class=\"alert alert-success alert-dismissible\" role=\"alert\">\n  <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></button>\n  <strong>Warning!</strong> Better check yourself, you're not looking too good.\n</div>",
+			"add_to",
+			"	\n",
+			"/>\n",
+			"}}</",
+			"ListView",
+			"				\n",
+			"trydjango18",
+			"18",
+			"ecommerce218",
+			"trydjango",
+			"wsgi.application",
+			"trydjango18",
+			"wsgi",
+			"trydjango18",
+			"hr",
+			"\\",
+			" =",
+			"%}\n",
+			"about",
+			"static",
+			"img",
+			"\">",
+			"task",
+			"home",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"flash_message",
+			"'",
+			"ecommerce2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/orders/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								716,
+								716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/orders/example.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ilnar/Downloads/backend/blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 177.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "ecommerce2.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
